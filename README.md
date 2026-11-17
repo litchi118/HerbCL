@@ -7,7 +7,7 @@ Official repository for the paper **"HerbCL: Task-isolated Continual Learning fo
 
 The cross-device Chinese herbal microscopic image benchmark developed in this study is publicly available via Baidu Netdisk.
 
-- **Download link:** [Chinese Herbal Microscopic Image Dataset](https://pan.baidu.com/s/1ty6HTh7L-y1OAV6f7jX3ng?pwd=axbr)
+- **Download link:** [Chinese Herbal Microscopic Image Dataset](https://pan.baidu.com/s/1uBxRFrJ6-UmLK35Xd7BFYg)
 - **Access code:** `axbr`
   
 
